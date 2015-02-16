@@ -1,0 +1,3 @@
+In this project, the goal is to calculate number of shortest paths between source point s and end point t, in a digraph.
+
+Modified the BFSDirectedGraphs.java from algs4. Added the countShortest functions.
